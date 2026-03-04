@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎾 打砖块桌球游戏 (Breakout/Arkanoid)
 
 ## 多 Agent 协作开发
@@ -51,3 +52,6 @@ project-multi-agent-breakout/
 ---
 
 **多 Agent 协作开发的经典打砖块游戏！🎊**
+=======
+# breakout-game-v1
+>>>>>>> ca02baa1fa0e6303e53fce5db161109284aa357f
